@@ -1,0 +1,35 @@
+[
+  {
+    "id": 26479,
+    "name": "Axios user Khalil",
+    "email": "Terry17@hotmail.com",
+    "password": "1234",
+    "phone_number": "01502794962",
+    "nid": "890788809",
+    "role": "Customer",
+    "updatedAt": "2024-11-06T14:41:22.331Z",
+    "createdAt": "2024-11-06T14:41:22.331Z"
+  },
+  {
+    "id": 26480,
+    "name": "Axios user Brittany",
+    "email": "Garth.Daugherty8@yahoo.com",
+    "password": "1234",
+    "phone_number": "01502834585",
+    "nid": "853448164",
+    "role": "Customer",
+    "updatedAt": "2024-11-06T14:41:22.375Z",
+    "createdAt": "2024-11-06T14:41:22.375Z"
+  },
+  {
+    "id": 26481,
+    "name": "Axios user Dorian",
+    "email": "Merle_Carroll@gmail.com",
+    "password": "1234",
+    "phone_number": "01502753055",
+    "nid": "257419196",
+    "role": "Agent",
+    "updatedAt": "2024-11-06T14:41:22.441Z",
+    "createdAt": "2024-11-06T14:41:22.441Z"
+  }
+]
