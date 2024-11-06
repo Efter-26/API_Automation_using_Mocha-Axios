@@ -73,8 +73,8 @@ A delay function used after each test case to avoid throttling or rate-limiting 
 6. To run tests:
 
     ```bash
-    npx mocha tests/Api.test.js
+    npx mocha tests/Api.test.js --reporter mochawesome
     ```
-7. Generate a Mochawesome Report. Here the screenshot of mochawesome-report are given:
+7. Generate the Mochawesome Report. Here the screenshot of mochawesome-report is given:
 
 ![image](https://github.com/user-attachments/assets/c89c9277-dd3a-4469-87fb-250701844a96)
